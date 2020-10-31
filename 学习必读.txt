@@ -1,0 +1,12 @@
+1.《Java从零打造企业级电商项目实战-服务端_课程问答-FAQ》
+    https://www.imooc.com/article/18998
+2.《happymmall课程QQ群分享手记》
+    https://www.imooc.com/article/19094
+3.《Java从零打造企业级电商实战-服务端》思维导图&知识点索引&温馨tips》
+    https://www.imooc.com/article/20193
+4.《找工作的季节之简历及找工作的分享》
+   https://www.imooc.com/article/19998
+5.二期进阶课程《Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式》
+   https://coding.imooc.com/learn/list/162.html
+
+最后欢迎大家加入课程QQ交流群一起交流探讨，QQ群号：274972262
